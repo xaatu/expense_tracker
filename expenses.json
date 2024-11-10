@@ -1,0 +1,57 @@
+[
+    {
+        "Amount": 500.0,
+        "Category": "Holidays",
+        "Description": "Going to Krakow for Dancer's stag do"
+    },
+    {
+        "Amount": 25.0,
+        "Category": "Food",
+        "Description": "Chinese Takeaway"
+    },
+    {
+        "Amount": 1.0,
+        "Category": "Utilities",
+        "Description": "Water Bill"
+    },
+    {
+        "Amount": 34.0,
+        "Category": "Utilities",
+        "Description": "Water Bill"
+    },
+    {
+        "Amount": 30.0,
+        "Category": "Utilities",
+        "Description": "Phone Bill"
+    },
+    {
+        "Amount": 31.0,
+        "Category": "Utilities",
+        "Description": "WiFi"
+    },
+    {
+        "Amount": 77.0,
+        "Category": "Utilities",
+        "Description": "Council Tax"
+    },
+    {
+        "Amount": 67.0,
+        "Category": "Transport",
+        "Description": "Filling up the car"
+    },
+    {
+        "Amount": 100.0,
+        "Category": "Savings",
+        "Description": "Saving for a rainy day"
+    },
+    {
+        "Amount": 11.0,
+        "Category": "Entertainment",
+        "Description": "Netflix"
+    },
+    {
+        "Amount": 1000.0,
+        "Category": "Holidays",
+        "Description": "jamaica"
+    }
+]
